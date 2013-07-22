@@ -1,3 +1,4 @@
+# GitHub maintained shell script
 mount /box
 now=`date '+%F %T'`
 tstamp=`date '+%Y%m%d_%H%M%S'`
